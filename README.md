@@ -19,7 +19,3 @@ An AI-driven real-time AR visual effects system inspired by Naruto, built using 
 - **Right Hand Open:** Triggers Naruto-style power effect.
 - **Left Hand Open:** Triggers Sasuke-style power effect.
 - **Blue Hand Landmarks:** Visualizes real-time hand tracking detection.
-
-## ⚠️ Note
-- Glow effects were optimized/removed to ensure compatibility and smooth performance across devices.
-- Best experienced in good lighting conditions for accurate hand detection.
